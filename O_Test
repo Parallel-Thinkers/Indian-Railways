@@ -1,0 +1,44 @@
+source		dest		sttus		psst	bcst
+dehr		mzfngr		cnfrm		bked	cnfrm	1
+
+Optimized profit=420
+Railway profit=420
+Total Profit=0
+
+merrut		ndelhi		cnfrm		bked	cnfrm	1
+
+Optimized profit=760
+Railway profit=760
+Total Profit=0
+
+dehr		merrut		cnfrm		bked	cnfrm	2
+
+Optimized profit=1220
+Railway profit=1220
+Total Profit=0
+
+mzfngr		ndelhi		cnfrm		bked	cnfrm	2
+
+Optimized profit=1600
+Railway profit=1600
+Total Profit=0
+
+dehr		hw		cnfrm		bked	cnfrm	3
+
+Optimized profit=1900
+Railway profit=1900
+Total Profit=0
+
+hw		ndelhi		cnfrm		bked	cnfrm	3
+
+Optimized profit=2400
+Railway profit=2400
+Total Profit=0
+
+dehr		hw		cnfrm		cncel	wl	4
+
+Optimized profit=2700
+Railway profit=2440
+Total Profit=260
+
+Max seats=4
