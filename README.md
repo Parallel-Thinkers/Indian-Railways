@@ -1,2 +1,2 @@
 # Indian-Railways
-Optimized seating allocation in Indian Railway Reservation System.
+Considering the scale on which Indian Railways operate – millions of passengers travelling on over thousands of trains running throughout the country every day, the tremendous amounts of savings can be done using the proposed technology.  Moreover many more passengers will get confirmed seats at the time of booking itself and there are many other benefits even saving energy resources.
